@@ -28,25 +28,40 @@ I will collect step count data from my mobile phone's health app and gather matc
 
 
 
-### **Dataset Description**  
-Transfermargt:https://www.transfermarkt.com.tr/fenerbahce-istanbul/spielplandatum/verein/36
-This is an image from website
-![image](https://github.com/user-attachments/assets/ae74b7bd-3d9b-427c-9a18-84fb4173667e)
-The dataset contains match-related information for a football team, structured in a table format. It includes variables such as:  
+### **Dataset Description**
+## **MATCH DATA**
 
-- **Date:** The date each match took place.  
+The match data used in this project is sourced from Transfermarkt, specifically the match schedule and results for **Fenerbahçe Istanbul**. You can access the data at the following link:
+
+[Transfermarkt Fenerbahçe Match Schedule](https://www.transfermarkt.com.tr/fenerbahce-istanbul/spielplandatum/verein/36)
+
+### Example Image
+
+Here is an example image showing the matches played until **September 15, 2024**:
+
+![Match Schedule](https://github.com/user-attachments/assets/ae74b7bd-3d9b-427c-9a18-84fb4173667e)
+
+### **Dataset Overview**
+
+The dataset contains match-related information for the football team, structured in a table format. Key variables include:
+
+- **Date:** The date the match took place.  
 - **Match Results:** The outcome of each match, represented as the final score (e.g., "3:4" or "1:0").  
 
-Additional details in the dataset include:  
-- **Competition Type:** Whether the match was part of a league or an international tournament (e.g., UEFA Champions League, Süper Lig).  
+Other details in the dataset include:  
+- **Competition Type:** Whether the match is part of a league or an international tournament (e.g., UEFA Champions League, Süper Lig).  
 - **Opponent Team:** The name of the opposing team.  
-- **Venue:** Indicates whether the match was played at home or away.  
-- **Attendance Numbers:** The number of spectators at each match.  
+- **Venue:** Indicates if the match was played at home or away.  
+- **Attendance Numbers:** The number of spectators present at the match.  
 - **Formation:** The tactical setup used during the match (e.g., "4-2-3-1").  
 
-For this project, I will primarily focus on the **Date** and **Match Results** columns to examine the relationship between matchdays, match outcomes, and my daily step count data.
-.İ will parse the HTML page for a match and collect the date and match result.
+For the purpose of this project, I will focus on extracting and analyzing the **Date** and **Match Results** columns. These variables will be used to investigate the relationship between matchdays, match outcomes, and my daily step count data.
 
+### **Data Collection Method**
+
+To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
+
+//Under part will be written sequent weegs.
 DATA PROCESSİNG
 
 DATA VİSUALİZATİONS

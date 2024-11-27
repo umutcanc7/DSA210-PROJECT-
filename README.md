@@ -24,7 +24,7 @@ I am passionate about understanding how my emotions and interests influence my d
 ---
 
 ### DATA SOURCE  
-I will collect step count data from my mobile phone's health app and gather matchday information using Transfermargt.  
+I will collect step count data from my mobile phone's health app and gather matchday information using Transfermarkt.  
 
 
 
@@ -61,7 +61,8 @@ For the purpose of this project, I will focus on extracting and analyzing the **
 
 To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
 
-//Under part will be written sequent weegs.
+//Under part will be written sequent weeks.
+
 DATA PROCESSİNG
 
 DATA VİSUALİZATİONS

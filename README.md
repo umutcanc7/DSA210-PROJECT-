@@ -8,8 +8,7 @@ Hi, my name is **Umut Can Çubukçu (Student ID: 32453)**.
 My project focuses on analyzing my daily step count data to explore how matchdays for the team I support, along with the outcomes of those matches, influence my physical activity levels compared to non-matchdays. 
 
 ---
-
-### MOTIVATION  
+  
 ### **MOTIVATION**  
 I am passionate about understanding how my emotions and interests influence my daily habits. Matchdays for the team I support bring a unique mix of excitement and anticipation, and the outcome of these matches,whether a win, loss, or draw can further amplify or dampen these feelings. This project aims to explore whether the emotional highs and lows associated with matchdays and their results have a measurable impact on my physical activity, as reflected in my step count data. By analyzing these patterns, I hope to gain insights into how emotionally charged events shape my behavior and routine.    
 

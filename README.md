@@ -1,4 +1,3 @@
-# DSA210-PROJECT-
-Screen Time Analysis
-ahahahhaa
-merhaba hocam nasilsiniz
+# DSA210-PROJECT- UMUT CAN CUBUKCU
+HOW SOCİAL MEDİA EFFECTS MY 
+

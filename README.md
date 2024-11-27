@@ -10,14 +10,15 @@ For my project, I will analyze step count data and compare it based on whether i
 ---
 
 ### MOTIVATION  
-I watch all the matches of the team I support, and I usually get extra excited on matchdays. I am curious whether this excitement leads to increased activity in my daily life. To explore this, I decided to track and analyze my daily step count.  
+### **MOTIVATION**  
+I am passionate about understanding how my emotions and interests influence my daily habits. Matchdays for the team I support bring a unique mix of excitement and anticipation, and the outcome of these matches,whether a win, loss, or draw can further amplify or dampen these feelings. This project aims to explore whether the emotional highs and lows associated with matchdays and their results have a measurable impact on my physical activity, as reflected in my step count data. By analyzing these patterns, I hope to gain insights into how emotionally charged events shape my behavior and routine.    
 
 ---
 
 ### PLAN  
 - **This week**: Submit requests to Apple Inc. and Google to begin extracting data.  
 - **Around December 14**: Start writing code and visualizing findings.  
-- **Two weeks before the final week**: Continue refining code and visualizations.  
+-                        : Continue refining code and visualizations.  
 - **January 8**: Final review before submission deadline.  
 
 ---

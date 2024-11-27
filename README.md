@@ -5,7 +5,7 @@
 **Fall 2024-2025 Term Project**  
 
 Hi, my name is **Umut Can Çubukçu (Student ID: 32453)**.  
-For my project, I will analyze step count data from my mobile phone and compare it based on whether it was a matchday for the team I support or not.  
+For my project, I will analyze step count data and compare it based on whether it was a matchday for the team I support or not.  
 
 ---
 

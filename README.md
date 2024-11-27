@@ -24,7 +24,7 @@ I am passionate about understanding how my emotions and interests influence my d
 ---
 
 ### DATA SOURCE  
-I will collect step count data from my mobile phone's health app and gather matchday information using Transfermarkt.  
+I will collect step count data from my mobile phone's health app and gather matchday information using the website Transfermarkt.  
 
 
 
@@ -57,9 +57,26 @@ Other details in the dataset include:
 
 For the purpose of this project, I will focus on extracting and analyzing the **Date** and **Match Results** columns. These variables will be used to investigate the relationship between matchdays, match outcomes, and my daily step count data.
 
+## **STEP COUNT DATA**
+
+The step count data used in this project is collected from the **mobile phone health app**, which tracks the number of steps taken on a daily basis. 
+
+The example image from my İphone is below.
+
+![Step Count Data](https://github.com/user-attachments/assets/7299e94e-f676-40b4-afd5-c92de5f7d0ba)
+
+
+### **Dataset Overview**
+
+The dataset consists of daily step count data, structured in a table format with the following key variables:
+
+- **Date:** The date on which the step count was recorded (e.g., "27 Nov 2024").  
+- **Steps:** The total number of steps taken on that particular day (e.g., "6,317" on November 27, 2024).
+
 ### **Data Collection Method**
 
 To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
+Step count data is collected through the Apple's health application, which automatically tracks step count and logs the data for each day.
 
 //Under part will be written sequent weeks.
 

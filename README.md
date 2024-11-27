@@ -1,16 +1,21 @@
 # DSA210-PROJECT- UMUT CAN CUBUKCU
-HOW SOCİAL MEDİA EFFECTS MY SLEEP?
-Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
+HOW DOES SOCIAL MEDIA AFFECT MY SLEEP?
+Sabancı University DSA210 Introduction to Data Science Course
+Fall 2024-2025 Term Project
 
-Hi. My name is UMUT CAN CUBUKCU;32453. 
-I will do my project with step count data from my mobile phone and compare with when the team that i root for  has a matchday or not.
+Hi, my name is Umut Can Çubukçu (Student ID: 32453).
+For my project, I will analyze step count data from my mobile phone and compare it based on whether it was a matchday for the team I support or not.
 
-MOTİVATİON 
+MOTIVATION
+I watch all the matches of the team I support, and I usually get extra excited on matchdays. I am curious whether this excitement leads to increased activity in my daily life. To explore this, I decided to track and analyze my daily step count.
 
-
+PLAN 
+İn this wee, i will send request to Apple İNC. and google to start to extract data.
+Around 14 Dec  i will start to write my code  and visualize my foundings  in 2 wee before final wee.
+Last chec on 8 January, before the last day of submission.
 
 DATA SOURCE
-
+I will collect step count data from my mobile phone's health app and gather matchday information using Google.
 
 DATA PROCESSİNG
 

@@ -1,5 +1,5 @@
 # DSA210 Project - Umut Can Çubukçu  
-## HOW DOES SOCIAL MEDIA AFFECT MY SLEEP?  
+## HOW DOES MATCHDAY AND THEİR RESULTS  AFFECT MY DAİLY ACTİVİNESS?  
 
 **Sabancı University DSA210 Introduction to Data Science Course**  
 **Fall 2024-2025 Term Project**  

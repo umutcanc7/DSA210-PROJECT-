@@ -77,18 +77,5 @@ The dataset consists of daily step count data, structured in a table format with
 To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
 Step count data is collected through the Apple's health application, which automatically tracks step count and logs the data for each day.
 
-//Under part will be written sequent weeks.
-
-DATA PROCESSİNG
-
-DATA VİSUALİZATİONS
-
-DATA ANAYLSİS
-
-FİNDİNGS
-
-LİMİTATİONS
-
-Future Work
 
 

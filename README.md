@@ -61,7 +61,7 @@ The match data used in this project will be sourced from Transfermarkt, specific
 
 Here is an sample image showing the matches played until **September 15, 2024**:
 
-<img src="https://github.com/user-attachments/assets/ae74b7bd-3d9b-427c-9a18-84fb4173667e" alt="Match Schedule" width="400"/>
+<img src="https://github.com/user-attachments/assets/ae74b7bd-3d9b-427c-9a18-84fb4173667e" alt="Match Schedule" width="500"/>
 
 ### Dataset Overview
 

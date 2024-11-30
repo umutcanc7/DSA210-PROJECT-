@@ -34,7 +34,13 @@ I hypothesize that on matchdays, my step count will increase compared to regular
 #### **Exploratory Data Analysis (EDA) (Mid to Late December 2024):**
 - Visualizing trends in daily step counts across matchdays and non-matchdays.  
 - Analyzing how step counts vary based on match outcomes.  
-- Calculating descriptive statistics such as average, minimum, and maximum step counts for matchdays versus non-matchdays.  
+- Calculating descriptive statistics such as average, minimum, and maximum step counts for matchdays versus non-matchdays.
+  
+### **Hypothesis Testing**
+To assess whether "Matchdays and match outcomes influence my daily step count:"
+
+- **(H₀):** Matchdays and match outcomes do not have a significant impact on my daily step count.  
+- **(H₁):** Matchdays and match outcomes have a significant impact on my daily step count, with increased steps on matchdays and more steps on wins compared to losses. 
 
 #### **Modeling and Analysis (Late December 2024 to Early January 2025):**
 - Using statistical methods to evaluate the relationship between matchdays, match outcomes, and daily step counts.  

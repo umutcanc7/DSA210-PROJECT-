@@ -1,5 +1,6 @@
 # DSA210 Project - Umut Can Çubukçu  
-## HOW DOES MATCHDAY AND THEİR RESULTS  AFFECT MY DAİLY ACTİVİNESS?  
+## How Matchdays and Their Results Affect My Daily Activity Levels
+
 
 **Sabancı University DSA210 Introduction to Data Science Course**  
 **Fall 2024-2025 Term Project**  
@@ -20,28 +21,27 @@ I hypothesize that on matchdays, my step count will increase compared to non-mat
 
 ### **Plan**
 
-#### **Data Collection (Early December 2024, ~1 week):**
+#### **Data Collection (Early December 2024):**
 - Parsing match data from the Transfermarkt website using web scraping techniques.  
 - Extracting and organizing relevant variables such as match dates and results into a structured format for analysis.  
 - Collecting daily step count data from the mobile phone’s health app.  
 
-#### **Data Cleaning (Mid-December 2024, ~2-3 days):**
-- Ensuring match records are complete and accurate (e.g., removing duplicate entries or matches without results).  
+#### **Data Cleaning (Mid-December 2024):**
+- Ensuring match records are complete and accurate.  
 - Standardizing data formats for dates and step counts to ensure consistency across datasets.  
 
-#### **Exploratory Data Analysis (EDA) (Mid to Late December 2024, ~1 week):**
+#### **Exploratory Data Analysis (EDA) (Mid to Late December 2024):**
 - Visualizing trends in daily step counts across matchdays and non-matchdays.  
-- Analyzing how step counts vary based on match outcomes (win, lose, draw).  
+- Analyzing how step counts vary based on match outcomes.  
 - Calculating descriptive statistics such as average, minimum, and maximum step counts for matchdays versus non-matchdays.  
 
-#### **Modeling and Analysis (Late December 2024 to Early January 2025, ~2 weeks):**
+#### **Modeling and Analysis (Late December 2024 to Early January 2025):**
 - Using statistical methods to evaluate the relationship between matchdays, match outcomes, and daily step counts.  
 - Investigating the influence of factors like venue (home/away) or match importance on activity levels.  
 - Making predictions about expected step counts on future matchdays based on past trends.  
 
-#### **Final Review and Submission (Early January 2025, ~2-3 days):**
-- Reviewing all findings, visualizations, and insights.  
-- Preparing the final project report and ensuring all components are well-documented for submission.  
+#### **Final Review and Submission (Early January 2025):**
+- Reviewing all findings, visualizations, and insights.   
 
 
 ---
@@ -98,7 +98,7 @@ The dataset consists of daily step count data, structured in a table format with
 ### **Data Collection Method**
 
 To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
-Step count data is collected through the Apple's health application, which automatically tracks step count and logs the data for each day.
+Step count data is collected through the Apple's health application, which automatically tracks step count and logs the data for each day.The step data will be extracted from an image using Python's OCR tool Tesseract, combined with preprocessing and simple text matching to parse and structure the data.
 
 
 

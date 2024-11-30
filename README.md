@@ -36,7 +36,7 @@ I hypothesize that on matchdays, my step count will increase compared to regular
 - Analyzing how step counts vary based on match outcomes.  
 - Calculating descriptive statistics such as average, minimum, and maximum step counts for matchdays versus non-matchdays.
   
-### **Hypothesis Testing**
+#### **Hypothesis Testing**
 To assess whether "Matchdays and match outcomes influence my daily step count:"
 
 - **(H₀):** Matchdays and match outcomes do not have a significant impact on my daily step count.  

@@ -49,9 +49,9 @@ I hypothesize that on matchdays, my step count will increase compared to regular
 
 
 
-## **DATA SOURCE**
+## **Data Source**
 I will collect step count data from my mobile phone's health app and gather matchday information using the website Transfermarkt. 
-### **MATCH DATA**
+### **Match Data**
 
 The match data used in this project will be sourced from Transfermarkt, specifically the match schedule and results for **Fenerbahçe Istanbul**. You can access the data at the following link:
 
@@ -63,7 +63,7 @@ Here is an sample image showing the matches played until **September 15, 2024**:
 
 ![Match Schedule](https://github.com/user-attachments/assets/ae74b7bd-3d9b-427c-9a18-84fb4173667e)
 
-### **Dataset Overview**
+### Dataset Overview
 
 The dataset contains match-related information for the football team, structured in a table format. Key variables include:
 
@@ -79,7 +79,7 @@ Other details in the dataset include:
 
 For the purpose of this project, I will focus on extracting and analyzing the **Date** and **Match Results** columns. These variables will be used to investigate the relationship between matchdays, match outcomes, and my daily step count data.
 
-## **STEP COUNT DATA**
+## **Step Count Data**
 
 The step count data used in this project is collected from the **Apple's health app**, which tracks the number of steps taken on a daily basis. 
 
@@ -89,7 +89,7 @@ The example image from my iPhone is below.
 
 
 
-### **Dataset Overview**
+### Dataset Overview
 
 The dataset consists of daily step count data, structured in a table format with the following key variables:
 

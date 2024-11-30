@@ -68,14 +68,14 @@ Here is an sample image showing the matches played until **September 15, 2024**:
 The dataset contains match-related information for the football team, structured in a table format. Key variables include:
 
 - **Date:** The date the match took place.  
-- **Match Results:** The outcome of each match, represented as the final score (e.g., "3:4" or "1:0").  
+- **Match Results:** The outcome of each match, represented as the final score .  
 
 Other details in the dataset include:  
-- **Competition Type:** Whether the match is part of a league or an international tournament (e.g., UEFA Champions League, Süper Lig).  
+- **Competition Type:** Whether the match is part of a league or an international tournament.  
 - **Opponent Team:** The name of the opposing team.  
 - **Venue:** Indicates if the match was played at home or away.  
 - **Attendance Numbers:** The number of spectators present at the match.  
-- **Formation:** The tactical setup used during the match (e.g., "4-2-3-1").  
+- **Formation:** The tactical setup used during the match.  
 
 For the purpose of this project, I will focus on extracting and analyzing the **Date** and **Match Results** columns. These variables will be used to investigate the relationship between matchdays, match outcomes, and my daily step count data.
 
@@ -94,8 +94,8 @@ The example image from my iPhone is below.
 
 The dataset consists of daily step count data, structured in a table format with the following key variables:
 
-- **Date:** The date on which the step count was recorded (e.g., "27 Nov 2024").  
-- **Steps:** The total number of steps taken on that particular day (e.g., "6,317" on November 27, 2024).
+- **Date:** The date on which the step count was recorded .  
+- **Steps:** The total number of steps taken on that particular day.
   
 ---
 

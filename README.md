@@ -14,9 +14,10 @@ My project focuses on analyzing my daily step count data to explore how matchday
 I am passionate about understanding how my emotions and interests influence my daily habits. Matchdays for the team I support bring a unique mix of excitement and anticipation, and the outcome of these matches;as a win, loss, or draw can make these feelings stronger or weaker. This project aims to explore whether the emotional highs and lows associated with matchdays and their results have a measurable impact on my physical activity, as reflected in my step count data. By analyzing these patterns, I will aim to gain insights into how emotionally charged events shape my behavior and routine.    
 
 ---
-### **Hypothesis**
+### Hypothesis
 
 I hypothesize that on matchdays, my step count will increase compared to regular days due to the excitement and energy associated with supporting my team. Additionally, I expect my step count to be higher on matchdays when my team wins, as positive emotions may encourage more physical activity, and lower on matchdays when my team loses, as negative emotions could result in reduced activity levels.
+
 ---
 
 ### **Plan**

@@ -85,7 +85,8 @@ The step count data used in this project is collected from the **Apple's health 
 
 The example image from my iPhone is below.
 
-![Step Count Data](https://github.com/user-attachments/assets/e8600d9a-1f9e-4b75-a9c1-df27de619608)
+<img src="https://github.com/user-attachments/assets/e8600d9a-1f9e-4b75-a9c1-df27de619608" alt="Step Count Data" width="400"/>
+
 
 
 

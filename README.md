@@ -109,7 +109,7 @@ The dataset consists of daily step count data, structured in a table format with
 
 -To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
 
--Step count data will be collected using Apple's Health app, which automatically tracks and logs daily steps.The step data will be extracted from an image using Python's OCR tool Tesseract, combined with preprocessing and simple text matching to parse and structure the data.
+-Step count data will be collected using Apple's Health app, which automatically tracks and logs daily steps.The step data will be extracted from a xml file requested from Apple using Python library BeatifulSoup to parse xml file,finding Step count data from that file.
 
 
 

@@ -110,8 +110,8 @@ The dataset consists of daily step count data, structured in a table format with
 -To collect the relevant match data, I will parse the HTML page of the match schedule for **Fenerbahçe Istanbul** using web scraping techniques. Specifically, I will extract the **Date** and **Match Results** for each match to use in the analysis.
 
 -Step count data will be collected using Apple's Health app, which automatically tracks and logs daily steps.The step data will be extracted from a xml file requested from Apple using Python library BeatifulSoup to parse xml file,finding Step count data from that file.
-
-##FUTURE WORK
+--
+## **FUTURE WORK**
 Our analysis showed that on matchdays, I tend to walk slightly less compared to usual days. Although the p-value is greater than 0.05, indicating that the difference is not statistically significant, there is still a noticeable variation in step counts. To explore this further, we could investigate factors that may contribute to this trend, such as screen time. Including such variables in future analyses could provide insights into whether increased screen time on matchdays is linked to reduced physical activity.
 
 Additionally, when comparing step counts between days after a win and usual days, we observed a significant difference. Specifically, my step count tends to be lower on days following a matchday with a win. This finding warrants further investigation to understand the potential psychological or behavioral factors influencing this pattern, and whether other external factors could be contributing to this discrepancy.

@@ -4,6 +4,7 @@
 
 **Sabancı University DSA210 Introduction to Data Science Course**  
 **Fall 2024-2025 Term Project**  
+[Project Video](https://drive.google.com/file/d/1FBzRkFRzj0zHFegVi-OZqBradwnx2y_4/view?usp=sharing)
 
 Hi, my name is **Umut Can Çubukçu (Student ID: 32453)**.  
 My project focuses on analyzing my daily step count data to explore how matchdays for the team I support, along with the outcomes of those matches, influence my physical activity levels compared to non-matchdays. 
